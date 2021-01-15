@@ -145,6 +145,7 @@ Refer to the UMBC policy on Academic Integrity: http://catalog.umbc.edu/content.
 
 __Equity and Inclusion Policies__
 
+[Please click to see our equity and inclusion policies](https://github.com/mguner/DATA601_SP21/blob/main/syllabus/DATA%20601%20SP_21%20Equity%20And%20Inclusion.pdf)
 
 
 

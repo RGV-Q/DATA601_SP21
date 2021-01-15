@@ -37,6 +37,13 @@ Upon completion, students will understand:
 
 •   Use common data formats such as CSV, JSON, XML.
 
+__Covid_19__
+
+Covid-19
+Due to the global pandemic, our classes will be held remotely this semester. 
+Please see [this Google doc](https://docs.google.com/document/d/1xWWGAR8qEzKYr7qaVHoEhvO6lyXIyn6M3M7EFZPJQgA/edit?usp=sharing) for UMBC Policies and Resources during COVID-19.
+
+
 __Github Repository__
 
 I will use [this Github Repository](https://github.com/mguner/DATA601_SP21) as our course webpage. You can check this page regulary for the updates and important information related to the course.
@@ -74,6 +81,20 @@ __Course Work__
 |Quizzes | | 30% |
 |Homework| | 60% |
 
+__Grades__
+
+|Percentile| | Letter Grade|
+|:---|:----|:----|
+| 93-100 |  | A| 
+| 90 - 92|  | A- |
+| 87-89| | B+|
+| 83-86 | | B |
+| 80-82 | | B-|
+| 77-79 | | C+ |
+| 73-76| | C |
+| 70-72 | | C-|
+| 60-69 | | D+|
+| 0- 59| | F|
 
 ## Weekly Schedule
 (Subject to change)
@@ -96,5 +117,34 @@ __Course Work__
 |week-14: <br> 04-27| Dealing with Date/Time Data | - TBA |
 |week-15: <br> 05-04| Misc | - TBA | Submit: Hw-8 - Working with Date/Time Data|
 |week-16: <br> 05-11| Last Day of Classes | - TBA | Group Presentations|
+
+
+__Course Policies__
+
+__Assignments__
+
+UMBC provides a range of writing assistance, which can be found in the following:
+
+•   The Writing Center: http://lrc.umbc.edu/tutor/writing-center/ 
+
+•   Research Guides & Tutorials: http://lib.guides.umbc.edu/tutorial 
+
+Failure to follow guidelines for each assignment, including the required format, style, length, and submission may result in at least one-letter-grade reduction on the assignment depending on the type or number of transgressions.
+
+__Late Assignments__
+
+__NO__ Late/incomplete assignments will be accepted! Emergency situations will be handled on a case by case basis with appropriate justification or documentation.  
+
+Incomplete grades are granted only for extenuating circumstances and your request is made before the last week of class.
+
+__Academic Integrity__
+
+By enrolling in this course, each student assumes the responsibilities of an active participant in UMBC’s scholarly community in which everyone’s academic work and behavior are held to the highest standards of honesty.  Cheating, fabrication, plagiarism, and helping other to commit these acts are all forms of academic dishonesty, and they are wrong.  Academic misconduct could result in disciplinary action that may include, but is not limited to failure, suspension or dismissal.  
+
+Refer to the UMBC policy on Academic Integrity: http://catalog.umbc.edu/content.php?catoid=17&navoid=879#academic-integrity.
+
+__Equity and Inclusion Policies__
+
+
 
 

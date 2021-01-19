@@ -11,7 +11,7 @@ Office Hours: [By appointment](https://calendly.com/mguner/10min)
 
 email: mguner@umbc.edu
 
-I check my email daily and generally will respond to questions in the evening hours.
+__I return messages within 48 hours, excluding breaks and weekends.__
 
 If your question is something about your code or something we covered in class then please don't send me email instead schedule an appointment.
 
@@ -97,7 +97,7 @@ __Grades__
 | 0- 59| | F|
 
 ## Weekly Schedule
-(Subject to change)
+(Subject to change)(Reading Materials are mostly from Data Wrangling with Python: Tips and Tools to Make Your Life Easier)
 
 |Week       |Topic       | Readings | Homework |
 |:---|:---|:---|:---|

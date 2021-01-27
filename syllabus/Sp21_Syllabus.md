@@ -99,6 +99,8 @@ __Grades__
 ## Weekly Schedule
 (Subject to change)(Reading Materials are mostly from Data Wrangling with Python: Tips and Tools to Make Your Life Easier)
 
+(You can access to the notebook only from your UMBC account)
+
 |Week       |Topic       | Readings | Homework |Notebook|
 |:---|:---|:---|:---|:-----|
 |week 1: <br> 01-26| Welcome, Logistics| - Chapter 1: <br> - [Python Installation for Windows](https://docs.microsoft.com/en-us/windows/python/beginners) <br> - [Google Colab Tutorial](https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c)| No Hw Due |[Lecture-1: Introduction and tools](https://colab.research.google.com/drive/1ngNASTl5Fzjg0othrQo38KQh4EFtZbDi?usp=sharing)

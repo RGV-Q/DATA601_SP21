@@ -101,7 +101,7 @@ __Grades__
 
 |Week       |Topic       | Readings | Homework |Notebook|
 |:---|:---|:---|:---|:-----|
-|week 1: <br> 01-26| Welcome, Logistics| - Chapter 1: <br> - [Python Installation for Windows](https://docs.microsoft.com/en-us/windows/python/beginners) <br> - [Google Colab Tutorial](https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c)| No Hw Due |[Lecture-1: Introduction and tools](https://colab.research.google.com/drive/1wrXSnPw4C6ONrWnEY-MbeD-mpebgGAZD?usp=sharing)
+|week 1: <br> 01-26| Welcome, Logistics| - Chapter 1: <br> - [Python Installation for Windows](https://docs.microsoft.com/en-us/windows/python/beginners) <br> - [Google Colab Tutorial](https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c)| No Hw Due |[Lecture-1: Introduction and tools](https://colab.research.google.com/drive/1ngNASTl5Fzjg0othrQo38KQh4EFtZbDi?usp=sharing)
 |week 2: <br>02-02| Python Basics | - Chapter 2 of Data Wrangling with Python  <br>  - [A Whirlwind Tour of Python: Chapters 4 to 12](https://jakevdp.github.io/WhirlwindTourOfPython/index.html) | Submit: Hw1 - Hello World!|
 |week-3:<br> 02-09| Data Formats | - Chapter 3: Data Meant to be Read by Machines | Submit: Hw2 - Python Basics |
 |week-4:<br> 02-16| Acquiring and Storing Data | - Chapter 6: Acquiring and Storing Data | No Hw Due |
